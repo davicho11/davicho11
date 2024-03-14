@@ -1,0 +1,19 @@
+#<Doctune html>
+<html>
+      <heade>
+              <title>Mi pagina</title>
+      </head>
+      <body>
+      <section><h2>mi pagina</h2>/section>
+      <section>
+              <div>16</div>
+              <div>5641110120</div>
+              <div>informatica</div>
+              <ul>
+                  <li>futbol</li>
+                  <li>basquetbol/li>
+                  <li>comer/li>
+              </ul>
+      </section>
+                <sectyion></section>
+      </body>
